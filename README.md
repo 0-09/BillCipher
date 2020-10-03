@@ -46,7 +46,7 @@ Download and run Ruby-lang setup file from <a href="https://rubyinstaller.org" t
 
 Download and run Git setup file from <a href="https://Git-scm.com" target="_blank"><span style="color: blue">Git-scm.com</span></a>, choose <strong>Use Git from Windows Command Propmt</strong>.
 
-Afther that, Run Command Propmt and enter these commands:
+After that, Run Command Prompt and enter these commands:
 
     git clone https://github.com/GitHackTools/BillCipher
     cd BillCipher
@@ -77,8 +77,8 @@ All the tools: <a href="http://bit.ly/2ohlBa5" target="_blank"><span style="colo
  * Fixed bug "Not found subbrute module of Sublist3r"
  
 # To-do list
- * Create a own version for the Hacker's OS like Kali Linux, ParrotSec (Kali version)
+ * Create an own version for the Hacker's OS like Kali Linux, ParrotSec (Kali version)
  * Add more features
- * Gather information about host (2.2) DONE!
- * Website Copier (use bhttrack and only support for Linux) (2.2) DONE!
+ * Gather information about the host (2.2) DONE!
+ * Website Copier (use httrack and only support for Linux) (2.2) DONE!
  * And more...
