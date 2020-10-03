@@ -24,6 +24,9 @@ BillCipher can work on any operating system if they have and support Python 2, P
  * Website Copier (use httrack) NEW!
  * Host Info Scanner (use WhatWeb) NEW!
  
+### This tool is tested with kali linux , parrot os , ubuntu os 
+
+ 
  # Install and Run in Linux
     sudo apt update && sudo apt install ruby python python-pip python3 python3-pip
     sudo apt install httrack whatweb
